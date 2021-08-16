@@ -1,5 +1,5 @@
 # brain-lab
-BrainF**k interpreter written in MatLab/Octave
+BrainFuck interpreter written in MatLab/Octave
 
 I don't know, why not?
 
